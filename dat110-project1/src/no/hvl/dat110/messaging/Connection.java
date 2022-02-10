@@ -54,8 +54,8 @@ public class Connection {
 		// TODO - START
 		// read a segment from the input stream and decapsulate into message
 		
-		if (true)
-			throw new UnsupportedOperationException(TODO.method());
+		//if (true)
+		//	throw new UnsupportedOperationException(TODO.method());
 		
 		// TODO - END
 		
